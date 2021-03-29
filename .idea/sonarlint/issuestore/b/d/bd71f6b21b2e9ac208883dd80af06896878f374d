@@ -1,0 +1,20 @@
+
+[
+java:S1128"@Remove this unused import 'org.apache.ibatis.annotations.Param'.(á¬Ó²8¡½à¾‡/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(åìˆëûÿÿÿÿ8Ï§î¾‡/
+Œ
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(üĞ†Ôûÿÿÿÿ8¡½à¾‡/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëôÛÍ8¡½à¾‡/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šî¿8¡½à¾‡/
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£ú½ß8ÒŠ¿‡/
+]
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8¡½à¾‡/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÎÏ8¡½à¾‡/
+X	java:S106"9Replace this use of System.out or System.err by a logger.( ÀÁíüÿÿÿÿ8¡½à¾‡/
+j
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ô»„Åıÿÿÿÿ8¡½à¾‡/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(üĞ†Ôûÿÿÿÿ8¡½à¾‡/
+h
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ô·ÅÖıÿÿÿÿ8ÂÂ˜Â‡/
+V	java:S125"<This block of commented-out lines of code should be removed.(ÈÅ»»8¡½à¾‡/
