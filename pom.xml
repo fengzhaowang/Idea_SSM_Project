@@ -37,7 +37,7 @@
     <jackson-core-version>2.9.8</jackson-core-version>
     <c3p0-version>0.9.5.4</c3p0-version>
     <mchange-commons-java-version>0.2.11</mchange-commons-java-version>
-    <fastjson.version>1.2.6</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
   </properties>
 
   <dependencies>
